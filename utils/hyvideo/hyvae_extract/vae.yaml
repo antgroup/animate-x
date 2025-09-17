@@ -1,0 +1,9 @@
+vae_path: ""
+video_url_files: ""
+output_base_dir: ""
+sample_n_frames: 61
+target_size: 
+  - 480
+  - 480
+enable_multi_aspect_ratio: True
+use_stride: True
